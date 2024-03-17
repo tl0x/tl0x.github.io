@@ -1,0 +1,15 @@
+.main {
+    background-color: #FAF9F6;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    min-height: 800px;
+}
+
+.titles {
+    font-family: Tahoma, sans-serif;
+}
+
+.paragraph {
+    font-family: "Lucida Console", monospace;
+}
