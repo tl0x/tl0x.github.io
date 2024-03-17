@@ -13,6 +13,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Delete blog.html
+      run: rm -f blog.html 
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
